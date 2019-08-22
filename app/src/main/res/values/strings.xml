@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">accel App</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="hitung">Hitung</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="volume">Volume</string>
+    <string name="luas_permukaan">Luas Permukaan</string>
+</resources>
